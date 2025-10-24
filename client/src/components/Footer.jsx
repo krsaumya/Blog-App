@@ -9,9 +9,8 @@ const Footer = () => {
 
             <div>
               <img src={assets.logo} alt="logo" className='w-32 sm:w-44'/>  
-              <p className='max-w-[410] mt-6'>Lorem ipsum dolor sit amet
-                consectetur, adipisicing elit. Rerum unde quaerat eveniet cumque
-                accusamus atque qui error quo enim fugiat?
+              <p className='max-w-[410] mt-6'>Your go-to space for insightful articles on 
+                technology, lifestyle, startups, and more. Stay informed, inspired, and connected with our curated blogs.
               </p>
             </div>
 
